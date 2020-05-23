@@ -1,0 +1,28 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abanoub-hanna-kamel/CV.git"
+  },
+  "author": "abanoub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abanoub-hanna-kamel/CV/issues"
+  },
+  "homepage": "https://github.com/abanoub-hanna-kamel/CV#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
