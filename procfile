@@ -1,1 +1,1 @@
-web: node contactform.js
+web: node app.js
